@@ -42,6 +42,28 @@ const Home = () => {
 
   return (
     <div className={`home ${darkMode ? 'dark' : ''}`}>
+      <div className="background-animation">
+        <div className="particle particle-1"></div>
+        <div className="particle particle-2"></div>
+        <div className="particle particle-3"></div>
+        <div className="particle particle-4"></div>
+        <div className="particle particle-5"></div>
+        <div className="particle particle-6"></div>
+        <div className="particle particle-7"></div>
+        <div className="particle particle-8"></div>
+        <div className="particle particle-9"></div>
+        <div className="particle particle-10"></div>
+        <div className="particle particle-11"></div>
+        <div className="particle particle-12"></div>
+        <div className="particle particle-13"></div>
+        <div className="particle particle-14"></div>
+        <div className="particle particle-15"></div>
+        <div className="particle particle-16"></div>
+        <div className="particle particle-17"></div>
+        <div className="particle particle-18"></div>
+        <div className="particle particle-19"></div>
+        <div className="particle particle-20"></div>
+      </div>
       <div className="home-container">
         <div className="home-content">
           {/* <div className="avatar-wrapper">
